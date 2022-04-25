@@ -4,11 +4,11 @@ Terraform module to create EC2 instance.
 
 ## Dependencies
 
-VPC <https://github.com/virsas/terraform_vpc>
-VPC SUBNET <https://github.com/virsas/terraform_vpc_subnet>
-VPC SG <https://github.com/virsas/terraform_vpc_sg>
-SSHKEY <https://github.com/virsas/terraform_ec2_sshkey>
-IAM ROLE <https://github.com/virsas/terraform_iam_role>
+- VPC <https://github.com/virsas/terraform_vpc>
+- VPC SUBNET <https://github.com/virsas/terraform_vpc_subnet>
+- VPC SG <https://github.com/virsas/terraform_vpc_sg>
+- SSHKEY <https://github.com/virsas/terraform_ec2_sshkey>
+- IAM ROLE <https://github.com/virsas/terraform_iam_role>
 
 ## Terraform example
 
